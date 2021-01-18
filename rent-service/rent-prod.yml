@@ -1,0 +1,3 @@
+prod:
+  hello:
+    message: Hello from production environment!
